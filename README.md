@@ -14,7 +14,7 @@
 
    <h3>If there is something you want to collaborate on you can reach me using one of the methods below:</h3>
 <div align="center">
-    <a href="mailto: eugenekofman@gmail.com"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto: eugenekofman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/eugene-kofman-1119aa189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.angel.co/u/eugene-kofman"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
     
