@@ -4,9 +4,10 @@
 
 <div align="left">
     <h3>Some things to know about me:</h3>
-    <li>I'm a full stack software</li>
-    <li>I'm currently working on fullstack clone of Strava called Cadence you can see it  <a href="https://heroku-cadence.herokuapp.com/">here</a></li>
-    <li>I'm always lookign for new interesting projects to collaborate on. </li>
+    <ul>
+        <li>I'm currently working on fullstack clone of Strava called Cadence you can see it  <a href="https://heroku-cadence.herokuapp.com/">here</a></li>
+        <li>I'm always looking for new, and interesting projects to collaborate on. </li>
+    </ul>
 
 </div>
 <br />
